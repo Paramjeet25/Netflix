@@ -1,7 +1,7 @@
    {
 "New_Version": "1.6",
 
-"Dialog_Title": "Update Found v1.5",
+"Dialog_Title": "Update Found v1.777",
 "Title_Color" : "#FF000000",
 
 "Dialog_Message": "Hello User,  There is an Update. Share our Mod",
