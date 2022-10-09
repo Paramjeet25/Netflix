@@ -4,7 +4,7 @@
 "Dialog_Title": "Update Found v1.i877",
 "Title_Color" : "#FF000000",
 
-"Dialog_Message": "Hello User,  There is an Update. Share our Mod",
+"Dialog_Message": "Hello User,  There abbsbsbsbsbsbsbs an Update. Share our Mod",
 "Message_Color" : "#FF000000",
 
 "Okay_Button_Text" : "Download",
