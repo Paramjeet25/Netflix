@@ -1,7 +1,7 @@
    {
 "New_Version": "4.4.2 build 7702",
 
-"Dialog_Title": "Update Found v1.777",
+"Dialog_Title": "Update Found v1.i877",
 "Title_Color" : "#FF000000",
 
 "Dialog_Message": "Hello User,  There is an Update. Share our Mod",
