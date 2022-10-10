@@ -34,7 +34,7 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamily",
-"Share_Mod_Text" : "Hey I found a great mod.",
+"Share_Mod_Text" : "Hey I found a great Netflix mod you can watch any anime and movie without paying 1ruppes so download now https://indianshortner.in/bsHBn",
 
 
 "Dialog_Stroke_Color" : "#FF0B8B42",
