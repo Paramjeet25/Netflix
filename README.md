@@ -1,5 +1,5 @@
    {
-"New_Version": "4.4.2 build 7731",
+"New_Version": "4.4.2 build 7732",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -27,7 +27,7 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://files.technicalatg.com/PZ3av",
+"Download_Link" : "https://files.technicalatg.com/eBSy",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "false",
