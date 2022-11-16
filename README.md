@@ -1,5 +1,5 @@
    {
-"New_Version": "4.4.2 build 7749",
+"New_Version": "4.4.7 build 8008",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
