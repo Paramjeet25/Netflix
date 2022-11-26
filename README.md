@@ -1,5 +1,5 @@
    {
-"New_Version": "4.7.1 build 8022",
+"New_Version": "4.7.1 build 8023",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -27,7 +27,7 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://files.technicalatg.com/NaDtKnTznA",
+"Download_Link" : "https://files.technicalatg.com/VoVT",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "false",
