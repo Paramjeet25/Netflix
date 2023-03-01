@@ -1,5 +1,5 @@
    {
-"New_Version": "4.7.1 build 8025",
+"New_Version": "ModderFamily",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -30,7 +30,7 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 "Download_Link" : "https://files.technicalatg.com/ZGYInS",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "false",
+"isCancelable" : "true",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamily",
