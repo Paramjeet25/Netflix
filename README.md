@@ -14,7 +14,7 @@ Note Pin Will Change In Every 24 Hours",
 
 "Okay_Button_Text" : "Get Pin",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://files.technicalatg.com/ZGYInS",
+"Download_Link" : "https://m.easysky.in/Jtub",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
