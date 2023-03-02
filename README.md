@@ -1,31 +1,18 @@
    {
-"New_Version": "ModderFamily",
+"New_Version": "ModderFamily1",
 
-"Dialog_Title": "Update Found",
+"Dialog_Title": "Netflix Pin",
 "Title_Color" : "#FF000000",
 
-"Dialog_Message": "Hello ModderFamily mods User Thanks You Choosing Us we are happy to announce That Update Of this Mod is available So Please Click on Download Button to Download New 
+"Dialog_Message": "IF YOU GET NETFLIX PIN THEN READ
+1. Click on Get Pin button for Netflix Pin
+2. Open Your link 
+3. After open take Your Netflix Pin and enjoy Netflix Shows 
 
-Features
-
-Premium unlocked
-
-Ads removed
-
-Quality fixed
-
-Download video Fixed 
-
-Bug fixed 
-
-Auto login 
-
-And some more features
-
-If you get any problem related to mod So Contacts us On Telegram @Modderfamilyowner",
+Note Pin Will Change In Every 24 Hours",
 "Message_Color" : "#FF000000",
 
-"Okay_Button_Text" : "Download",
+"Okay_Button_Text" : "Get Pin",
 "Okay_Button_Text_Color" : "#FF0B8B42",
 "Download_Link" : "https://files.technicalatg.com/ZGYInS",
 
