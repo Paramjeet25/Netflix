@@ -9,12 +9,14 @@
 2. Open Your link 
 3. After open take Your Netflix Pin and enjoy Netflix Shows 
 
-Note Pin Will Change In Every 24 Hours",
+Note 
+Pin Will Change In Every 24 Hours
+If video not playing then Connect vpn and Load video then off vpn",
 "Message_Color" : "#FF000000",
 
 "Okay_Button_Text" : "Get Pin",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://m.easysky.in/Jtub",
+"Download_Link" : "https://m.easysky.in/OXCDY1v",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
