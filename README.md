@@ -16,7 +16,7 @@ If video not playing then Connect vpn and Load video then off vpn",
 
 "Okay_Button_Text" : "Get Pin",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://m.easysky.in/OXCDY1v",
+"Download_Link" : "https://modshub.site/?go=5f77f684",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
