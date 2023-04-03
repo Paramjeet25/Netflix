@@ -1,5 +1,5 @@
    {
-"New_Version": "ModderFamily1",
+"New_Version": "@ModderFamilyOfficial",
 
 "Dialog_Title": "Netflix Pin",
 "Title_Color" : "#FF000000",
@@ -9,13 +9,13 @@
 
 "Okay_Button_Text" : "Download Now",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://modshub.site/?go=5f77f684",
+"Download_Link" : "https://m.easysky.in/0wN9",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "true",
+"isCancelable" : "false",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
-"Website_Link" : "https://t.me/ModderFamily",
+"Website_Link" : "https://t.me/ModderFamilyofficial",
 "Share_Mod_Text" : "Hey I found a great Netflix mod you can watch any anime and movie without paying 1ruppes so download now https://t.me/ModderFamily",
 
 
