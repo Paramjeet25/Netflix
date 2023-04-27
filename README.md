@@ -17,7 +17,7 @@ If you get Netflix Pin Then read 📌
 "Download_Link" : "https://m.easysky.in/9Eobwr",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "false",
+"isCancelable" : "true",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamilyofficial",
